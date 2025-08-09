@@ -1,0 +1,5 @@
+without deleting single word from the caption
+without doing summary
+
+just give good formatting to all the text like heading, subheading, bullets, arrows, bold
+remove timestamps
